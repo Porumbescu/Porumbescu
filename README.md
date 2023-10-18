@@ -40,6 +40,11 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=porumbescu&show_icons=true&theme=dark&locale=en" alt="porumbescu" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=porumbescu&theme=dark" alt="porumbescu" /> </p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=porumbescu&show_icons=true&theme=dark&locale=en" alt="porumbescu" /> 
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=porumbescu&show_icons=true&theme=dark&locale=en&layout=compact" alt="porumbescu" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=porumbescu&show_icons=true&theme=dark&locale=en&layout=compact" alt="porumbescu" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=porumbescu&theme=dark" alt="porumbescu" /></p>
+
+<p></p>
