@@ -1,6 +1,6 @@
 ![Header](https://github.com/Porumbescu/Porumbescu/assets/86052161/5fcf3520-6ab6-4882-98ca-b5697b8fb7dd)
 
-<span><h1 align="center" style="color: white;">Hi 👋, I'm Cristian</h1></span>
+<span><h1 align="center" style="color: white;">Hi 👋, I'm Cristian </h1></span>
 <span><h3 align="center" style="color: white;">A passionate java developer from Romania</h3></span>
 
 <br>
