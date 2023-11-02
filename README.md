@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: **Algorithms and Data Structures**
 
-- 🌱 I’m currently learning: **Spring, React **
+- 🌱 I’m currently learning: **Spring, React**
 
 - 📫 How to reach me: **cristianporumb3@gmail.com**
 
