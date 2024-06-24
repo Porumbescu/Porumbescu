@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: **Algorithms and Data Structures**
 
-- 🌱 I’m currently learning: **Docker, MongoDB**
+- 🌱 I'm currently developing my backend development skills and DevOps expertise.
 
 - 📫 How to reach me: **cristianporumb3@gmail.com**
 
